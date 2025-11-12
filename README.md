@@ -38,14 +38,7 @@ All tables are linked through **foreign keys** referencing `COUNTRY_3`.
 
 ---
 
-### ⚙️ Features
-- Full database creation script  
-- Foreign key relationships  
-- Queries for trend, ratio, and comparative analysis  
-- Supports MySQL 8.0+  
-- Ready for Power BI or Python visualization
 
----
 
 ### 📊 Sample Analyses
 - Total emissions by country  
