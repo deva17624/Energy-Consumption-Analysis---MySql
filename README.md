@@ -48,11 +48,5 @@ All tables are linked through **foreign keys** referencing `COUNTRY_3`.
 - Population impact on emissions  
 - Year-over-year energy trends  
 
----
-
-### 🚀 How to Use
-1. Run the SQL script `energydb9_setup.sql` in MySQL Workbench  
-2. Insert your dataset  
-3. Execute the analysis queries to explore insights  
 
 ---
